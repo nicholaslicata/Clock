@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Roboto&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.container {
+    text-align: center;
+    margin-top: 15rem;
+}
+
+.time {
+    font-family: 'Orbitron';
+    font-size: 8rem;
+    color: #67E8F9;
+}
+
+.greeting {
+    font-family: 'Roboto';
+    color: white;
+    margin-bottom: 2rem;
+}
